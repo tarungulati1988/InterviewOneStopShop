@@ -18,3 +18,4 @@ Collection of useful links that are out there to help you get your'e next dream 
 1. [Back tracking template](https://discuss.leetcode.com/topic/46162/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning/2)
 1. [Geek for Geeks](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) graphs, memoization, recursion, strings, trees, etc.
 1. [Bit manipulation](https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+1. [Bit counting](https://leetcode.com/articles/counting-bits/)
