@@ -21,3 +21,6 @@ Collection of useful links that are out there to help you get your'e next dream 
 1. [Bit counting](https://leetcode.com/articles/counting-bits/)
 1. [XOR](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/BitOp/xor.html)
 1. [Sliding window template](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/discuss/49708/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.)
+
+#### Behavioral Rounds
+1. [Behavioral TLDR](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md)
