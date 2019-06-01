@@ -27,3 +27,4 @@ Collection of useful links that are out there to help you get your'e next dream 
 
 #### System Desgin
 1. [Search infrastructure at instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
+2. [AirBnb Payments De-Dupe and idempotency system](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
