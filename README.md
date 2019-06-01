@@ -24,3 +24,6 @@ Collection of useful links that are out there to help you get your'e next dream 
 
 #### Behavioral Rounds
 1. [Behavioral TLDR](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md)
+
+#### System Desgin
+1. [Search infrastructure at instagram](https://instagram-engineering.com/search-architecture-eeb34a936d3a)
